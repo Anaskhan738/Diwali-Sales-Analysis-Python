@@ -34,5 +34,4 @@ To help businesses understand customer buying patterns during festive seasons an
 ## 📁 Files Included
 - `Diwali_Sales_Analysis.ipynb`: Jupyter notebook with full analysis
 - `Diwali_sales.csv`: Dataset used
-- `project_learnings.png`: Summary of learnings and findings
 
